@@ -4,10 +4,10 @@ CreditCardFraudDetectionML is a project focused on leveraging Machine Learning t
 # Installation
 
 1. Clone the repository:
-´´´bash
+```bash
 git clone https://github.com/your-username/creditguardml.git
-´´´
-2. Install dependencies:
-´´´bash
+```
+3. Install dependencies:
+```bash
 make install
-´´´
+```
